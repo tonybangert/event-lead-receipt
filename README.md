@@ -4,7 +4,7 @@ A tap-friendly mobile web app for **gracefully capturing leads at conferences**.
 
 It's the "I don't carry business cards" play — but instead of a QR code that nobody scans, the prospect leaves with something memorable in their inbox.
 
-![A capture flow that takes 30 seconds and feels like a gift, not a harvest.](./public/logo.svg)
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonybangert/event-lead-receipt/generate) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftonybangert%2Fevent-lead-receipt&env=RESEND_API_KEY,FROM_EMAIL,HOST_EMAIL,HOST_NAME,HOST_COMPANY,EVENT_NAME,EVENT_VENUE&envDescription=Resend%20API%20key%20%2B%20sender%20identity%20%2B%20event%20metadata.%20See%20.env.example%20for%20optional%20HubSpot%20vars.&envLink=https%3A%2F%2Fgithub.com%2Ftonybangert%2Fevent-lead-receipt%2Fblob%2Fmain%2F.env.example&project-name=event-lead-receipt&repository-name=event-lead-receipt)
 
 ## Why this exists
 
