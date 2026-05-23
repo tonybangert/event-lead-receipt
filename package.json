@@ -1,0 +1,25 @@
+{
+  "name": "event-lead-receipt",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tap-friendly lead-capture web app that emails a branded receipt to both parties — open-source template.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonybangert/event-lead-receipt.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
